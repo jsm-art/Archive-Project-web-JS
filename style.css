@@ -1,1 +1,5 @@
 /* STYLE FOR YOUR INDEX.HTML */
+body{
+    margin: 0;
+    background-color: rgb(135, 170, 235);
+}

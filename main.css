@@ -1,1 +1,6 @@
 /* STYLE FOR YOU MAIN.HTML */
+body{
+    margin: 0;
+    background-color: rgb(135, 170, 235);
+}
+
