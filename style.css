@@ -2,4 +2,54 @@
 body{
     margin: 0;
     background-color: rgb(135, 170, 235);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.HEADINGS{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.INTRO{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    display: block;
+    padding: 100px 200px;
+    margin: 5% auto;
+    border: 5px solid darkblue;
+    border-radius: 10px;
+    color: white;
+    background-color: #508fc8;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+button:hover{
+    background: darkblue;
+    color: white;
+    font-size: 45px;
+    text-align: center;
 }

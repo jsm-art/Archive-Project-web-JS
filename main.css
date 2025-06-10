@@ -2,5 +2,79 @@
 body{
     margin: 0;
     background-color: rgb(135, 170, 235);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
 }
 
+h1{
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+ul {
+  list-style-position: inside;
+  text-align: center;
+  font-size: 30px;
+}
+
+img{
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.JSM{
+    align-items: center;
+    text-align: center;
+}
+
+.AA{
+    align-items: center;
+    text-align: center;
+}
+
+.AeA{
+    align-items: center;
+    text-align: center;
+}
+
+.CS{
+    align-items: center;
+    text-align: center;
+}
+
+.DA{
+    align-items: center;
+    text-align: center;
+}
+
+.AD{
+    align-items: center;
+    text-align: center;
+}
+
+.LA{
+    align-items: center;
+    text-align: center;
+}
+
+.CY{
+    align-items: center;
+    text-align: center;
+}
+
+.JS{
+    align-items: center;
+    text-align: center;
+}
+
+.NA{
+    align-items: center;
+    text-align: center;
+}
+
+.MAP{
+    align-items: center;
+    text-align: center;
+}
